@@ -9,5 +9,5 @@
 5. создание слоя lemmas, чей родительский слой words
 
 Разметка экспортирована в двух форматах:
-- [HTML] (file:///C:/Users/Yoga260/OneDrive/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB/%D0%BD%D0%B0%2019.11/htmlversion.html)
-- [список слов] (https://onedrive.live.com/?cid=FA763D11F088E45C&id=FA763D11F088E45C%21642&parId=FA763D11F088E45C%21636&o=OneUp)
+- HTML
+- список слов
